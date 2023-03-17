@@ -1,0 +1,8 @@
+.header-top {
+    background-color: var(--header-background);
+    border-bottom: 1px solid var(--header-border);
+}
+
+.header-upper {
+    background-color: var(--header-background);
+}
