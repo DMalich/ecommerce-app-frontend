@@ -6,3 +6,16 @@
 .header-upper {
     background-color: var(--header-background);
 }
+
+.header-upper .input-group-text {
+    background-color: var(--color-febd69);
+}
+
+.header-upper .header-upper-links img {
+    width: 30px;
+    height: 30px;
+}
+
+.gap-10 {
+    gap: 10px;
+}
